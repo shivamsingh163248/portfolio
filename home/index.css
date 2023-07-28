@@ -285,7 +285,7 @@ section.services .card-grid .card:hover p {
    
 }
 .linkedin{
-height: 100px;
+height: 600px;
 background-color: rgb(181, 218, 241);
 clip-path: polygon(0 0, 10% 0, 100% 50%, 100% 100%, 0 100%);
 
