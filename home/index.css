@@ -287,6 +287,7 @@ section.services .card-grid .card:hover p {
 .linkedin{
 height: 400px;
 background-color: rgb(181, 218, 241);
+clip-path: polygon(0 0, 100% 0, 100% 100%, 73% 94%, 0 100%);
 
 
 }
